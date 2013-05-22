@@ -1,0 +1,9 @@
+[08-May-2012 05:52:24] PHP Parse error:  syntax error, unexpected '<' in /home/digita05/public_html/edirap/wp-content/themes/esplanade/taxonomy-content.php on line 35
+[08-May-2012 05:53:34] PHP Parse error:  syntax error, unexpected '<' in /home/digita05/public_html/edirap/wp-content/themes/esplanade/taxonomy-content.php on line 35
+[08-May-2012 05:53:36] PHP Parse error:  syntax error, unexpected '<' in /home/digita05/public_html/edirap/wp-content/themes/esplanade/taxonomy-content.php on line 35
+[08-May-2012 05:53:37] PHP Parse error:  syntax error, unexpected '<' in /home/digita05/public_html/edirap/wp-content/themes/esplanade/taxonomy-content.php on line 35
+[08-May-2012 16:36:59] PHP Parse error:  syntax error, unexpected '.' in /home/digita05/public_html/edirap/wp-content/themes/esplanade/content-economy.php on line 34
+[08-May-2012 16:42:22] PHP Parse error:  syntax error, unexpected ')' in /home/digita05/public_html/edirap/wp-content/themes/esplanade/content-economy.php on line 26
+[08-May-2012 18:28:12] PHP Parse error:  syntax error, unexpected $end in /home/digita05/public_html/edirap/wp-content/themes/esplanade/content-section_index.php on line 54
+[08-May-2012 18:36:30] PHP Warning:  join() [<a href='function.join'>function.join</a>]: Argument must be an array in /home/digita05/public_html/edirap/wp-content/themes/esplanade/content-section_index.php on line 43
+[08-May-2012 18:36:30] PHP Warning:  join() [<a href='function.join'>function.join</a>]: Argument must be an array in /home/digita05/public_html/edirap/wp-content/themes/esplanade/content-section_index.php on line 43
