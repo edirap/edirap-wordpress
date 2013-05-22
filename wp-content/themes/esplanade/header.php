@@ -36,9 +36,9 @@
 			</div>
 			<div id="edirap-social_networks" class="social_networks_widget">
 				<ul class="social-networks">
-				<li><a rel="external" target="_blank" href="#"><img src="<?php bloginfo('template_directory');?>/images/twitter.png" width="24" height="24" alt=""></a></li>
-				<li><a rel="external" target="_blank" href="#"><img src="<?php bloginfo('template_directory');?>/images/gplus.png" width="24" height="24" alt=""></a></li>
-				<li><a rel="external" target="_blank" href="#"><img src="<?php bloginfo('template_directory');?>/images/facebook.png" width="24" height="24" alt=""></a></li>
+				<li><a rel="external" target="_blank" href="https://twitter.com/#!/digitalreview12"><img src="<?php bloginfo('template_directory');?>/images/twitter.png" width="24" height="24" alt=""></a></li>
+				<li><a rel="external" target="_blank" href="https://plus.google.com/117866176323627467385/"><img src="<?php bloginfo('template_directory');?>/images/gplus.png" width="24" height="24" alt=""></a></li>
+				<li><a rel="external" target="_blank" href="https://www.facebook.com/digitalreview"><img src="<?php bloginfo('template_directory');?>/images/facebook.png" width="24" height="24" alt=""></a></li>
 				<li><a rel="external" target="_blank" href="#"><img src="<?php bloginfo('template_directory');?>/images/linkedin.png" width="24" height="24" alt=""></a></li>		    </ul>  
 				</div>
 			<div id="edirap-search" class="widget_search">

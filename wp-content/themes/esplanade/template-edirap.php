@@ -87,7 +87,7 @@ Template Name: edirap
 					'post_type' => 'post',
 					'post_status' => 'publish',
 					'order' => 'DESC',
-					'posts_per_page' => 1,
+					'posts_per_page' => 2,
 				);
 				$posts = new WP_Query( $args );	
 			?>
