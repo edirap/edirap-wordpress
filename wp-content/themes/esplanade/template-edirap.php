@@ -133,7 +133,7 @@ Template Name: edirap
          
          <p class="homepage-article-p"><strong class="line-hor1"></strong></p>
 
-        <h3 class="homepage-article-title">&#8250;&nbsp;&nbsp;Publications</h3>
+        <h3 class="homepage-article-title">&#8250;&nbsp;&nbsp;Papers</h3>
 
         <h3 class="homepage-article-subject">
         <a href="http://digitalreview.asia/participatory-public-space-in-global-networks-transforming-governance">
