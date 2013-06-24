@@ -122,6 +122,7 @@ Template Name: edirap
         <h3 class="homepage-article-subject">
         <a href="http://digitalreview.asia/interviews">
         Interviews</a></h3>
+        <img src="/wp-content/themes/esplanade/images/hangout-panel.png" />
         <p>
         A series of one on one interviews with Asia-Pacific's ICT4D
         leading advocates and implementers.</p>
@@ -131,6 +132,41 @@ Template Name: edirap
         </div>
          
          <p class="homepage-article-p"><strong class="line-hor1"></strong></p>
+
+        <h3 class="homepage-article-title">&#8250;&nbsp;&nbsp;Publications</h3>
+
+        <h3 class="homepage-article-subject">
+        <a href="http://digitalreview.asia/participatory-public-space-in-global-networks-transforming-governance">
+        Participatory Public Space in Global Networks: Transforming Governance</a></h3>
+     
+        <p>
+        This brief paper traces the historical trajectories of these 
+        changes in the hope of stimulating a more nuanced dialogue between 
+        ICT-specific policy activism and those working with historical forms of 
+        public policy.
+        </p>
+
+        <div class="home-article-link">
+         <a href="http://digitalreview.asia/participatory-public-space-in-global-networks-transforming-governance">Read More</a>
+        </div>
+
+        <h3 class="homepage-article-subject">
+        <a href="http://digitalreview.asia/digitizing-books-of-the-future/">
+        Digitizing books of the future</a></h3>
+     
+        <p>
+        Asia’s publishers and readers are surfing unchartered waters. 
+        While readers in Asia have for the most part enjoyed a relatively steady 
+        flow of books over the past two centuries, Asian publishers have nearly 
+        always worked and lived rather precarious careers. The past decade has 
+        been particularly challenging for publishers.
+        </p>
+
+        <div class="home-article-link">
+         <a href="http://digitalreview.asia/digitizing-books-of-the-future/">Read More</a>
+        </div>
+
+
 		</div><!-- edirap-news-feeds-content -->		
 	</div><!-- end of edirap-news-feeds -->	
 
