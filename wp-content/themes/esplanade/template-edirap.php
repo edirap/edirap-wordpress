@@ -103,6 +103,37 @@ Template Name: edirap
          <p class="homepage-article-p"><strong class="line-hor1"></strong></p>
 		</div><!-- end of edirap-project-news-content -->		
 	</div><!-- end of edirap-project-news -->
+
+	<div id="edirap-news-feeds">
+		<div id="edirap-news-feeds-content">
+        <h3 class="homepage-article-title">&#8250;&nbsp;&nbsp;Hangouts and Interviews</h3>
+       
+             <h3 class="homepage-article-subject">
+             <a href="http://digitalreview.asia/hangouts/">Hangouts</a></h3>
+        <img src="/wp-content/themes/esplanade/images/hangout-panel.png" />
+        <p>
+        A series of live virtual panel sessions. Check out upcoming, 
+        and present past sessions.<p>
+
+        <div class="home-article-link">
+         <a href="http://digitalreview.asia/hangouts">Read More</a>
+        </div>
+
+        <h3 class="homepage-article-subject">
+        <a href="http://digitalreview.asia/interviews">
+        Interviews</a></h3>
+        <p>
+        A series of one on one interviews with Asia-Pacific's ICT4D
+        leading advocates and implementers.</p>
+
+        <div class="home-article-link">
+         <a href="http://digitalreview.asia/interviews">Read More</a>
+        </div>
+         
+         <p class="homepage-article-p"><strong class="line-hor1"></strong></p>
+		</div><!-- edirap-news-feeds-content -->		
+	</div><!-- end of edirap-news-feeds -->	
+
 	<div id="edirap-recent-updates">
 		<h3 class="homepage-article-title">&#8250;&nbsp;&nbsp;Recent updates </h3>
 		<div id="edirap-recent-updates-content">
@@ -128,30 +159,6 @@ Template Name: edirap
            <p class="homepage-article-p"><strong class="line-hor1"></strong></p>
 		</div><!-- edirap-recent-updates-content -->		
 	</div><!-- end of edirap-recent-updates -->	
-	<div id="edirap-news-feeds">
-		<h3 class="homepage-article-title">&#8250;&nbsp;&nbsp;news feeds </h3>
-		<div id="edirap-news-feeds-content">
-			<?php
-				$args = array(
-					'post_type' => 'section',
-					'post_status' => 'publish',
-					'order' => 'DESC',
-					'posts_per_page' => 1,
-				);
-				$posts = new WP_Query( $args );	
-			?>
-			<?php if( $posts->have_posts() ) : ?>
-				<?php while( $posts->have_posts() ) : $posts->the_post(); ?>
-					<?php get_template_part( 'content', 'newsfeeds' ); ?>
-				<?php endwhile; ?>
-				<div class="clear"></div>
-				<?php esplanade_posts_nav(); ?>
-			<?php else : ?>
-				<?php esplanade_404(); ?>
-			<?php endif; ?>
-         <p class="homepage-article-p"><strong class="line-hor1"></strong></p>
-		</div><!-- edirap-news-feeds-content -->		
-	</div><!-- end of edirap-news-feeds -->	
 	</div><!-- end of edirap-central-column wrapper-->
 	</div><!-- end of edirap-central-column -->
 	
